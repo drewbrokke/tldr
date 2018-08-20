@@ -22,6 +22,10 @@
 
 `?{{something}}`
 
+- Show only lines that match a pattern:
+
+`&{{something}}
+
 - Follow the output of the currently opened file:
 
 `F`
